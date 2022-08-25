@@ -76,7 +76,7 @@ public class Main {
         }
         return sum;
     }
-    public static float averageValueArray(){
+    public static float averageValueArray(){   // Вычисляет среднюю сумму трат за месяц
         float middleCount = sumArrayNumbers() / 30;
         return middleCount;
     }
